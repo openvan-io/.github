@@ -10,15 +10,15 @@
 </p>
 
 <p align="center">
-  <a href="https://openvan.io/start"><img src="https://img.shields.io/badge/Join_the_waitlist-31DADA?style=for-the-badge" alt="Join the waitlist"></a>
-  <a href="https://www.youtube.com/@openvan-io"><img src="https://img.shields.io/badge/YouTube-0A111C?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
-  <a href="https://www.instagram.com/openvan.io"><img src="https://img.shields.io/badge/Instagram-0A111C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://openvan.io"><img src="https://img.shields.io/badge/openvan.io-0A111C?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIi8%2BPHBhdGggZD0iTTIgMTJoMjAiLz48cGF0aCBkPSJNMTIgMmExNS4zIDE1LjMgMCAwIDEgNCAxMCAxNS4zIDE1LjMgMCAwIDEtNCAxMCAxNS4zIDE1LjMgMCAwIDEtNC0xMCAxNS4zIDE1LjMgMCAwIDEgNC0xMHoiLz48L3N2Zz4K" alt="Website"></a>
+  <a href="https://openvan.io/start"><img src="badges/waitlist.svg" alt="Join the waitlist"></a>
+  <a href="https://www.youtube.com/@openvan-io"><picture><source media="(prefers-color-scheme: dark)" srcset="badges/youtube-inverted.svg"><img src="badges/youtube.svg" alt="YouTube"></picture></a>
+  <a href="https://www.instagram.com/openvan.io"><picture><source media="(prefers-color-scheme: dark)" srcset="badges/instagram-inverted.svg"><img src="badges/instagram.svg" alt="Instagram"></picture></a>
+  <a href="https://openvan.io"><picture><source media="(prefers-color-scheme: dark)" srcset="badges/website-inverted.svg"><img src="badges/website.svg" alt="Website"></picture></a>
 </p>
 
 ---
 
-### Your van. Your smart home.
+## Your van. Your smart home.
 
 Lighting, heating, water, power: your entire vehicle at a glance. An open, modular smart home system powered by Home Assistant.
 
@@ -28,7 +28,7 @@ Lighting, heating, water, power: your entire vehicle at a glance. An open, modul
 - **Set up without code.** Decide in Home Assistant which button switches which light.
 - **Grows with your build.** Start small, add MODULEs when you need them.
 
-### How it is built
+## How it is built
 
 | | |
 |---|---|
@@ -39,12 +39,12 @@ Lighting, heating, water, power: your entire vehicle at a glance. An open, modul
 **Open software, documented hardware.** The software is open source. For every board we
 publish datasheet, schematic, 3D model and renderings.
 
-### Where we are
+## Where we are
 
 **In development.** We are building the first market-ready hardware revision now — in public,
 including the detours.
 
-### Be part of it from day one
+## Be part of it from day one
 
 The waitlist is the one channel for everything that matters:
 

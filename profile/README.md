@@ -10,10 +10,10 @@
 </p>
 
 <p align="center">
-  <a href="https://openvan.io/start"><img src="badges/waitlist.svg" alt="Join the waitlist"></a>
-  <a href="https://www.youtube.com/@openvan-io"><picture><source media="(prefers-color-scheme: dark)" srcset="badges/youtube-inverted.svg"><img src="badges/youtube.svg" alt="YouTube"></picture></a>
-  <a href="https://www.instagram.com/openvan.io"><picture><source media="(prefers-color-scheme: dark)" srcset="badges/instagram-inverted.svg"><img src="badges/instagram.svg" alt="Instagram"></picture></a>
-  <a href="https://openvan.io"><picture><source media="(prefers-color-scheme: dark)" srcset="badges/website-inverted.svg"><img src="badges/website.svg" alt="Website"></picture></a>
+  <a href="https://openvan.io/start?src=github&c=org-profile"><img src="badges/waitlist.svg" alt="Join the waitlist"></a>
+  <a href="https://openvan.io/go/youtube?src=github&c=org-profile"><picture><source media="(prefers-color-scheme: dark)" srcset="badges/youtube-inverted.svg"><img src="badges/youtube.svg" alt="YouTube"></picture></a>
+  <a href="https://openvan.io/go/instagram?src=github&c=org-profile"><picture><source media="(prefers-color-scheme: dark)" srcset="badges/instagram-inverted.svg"><img src="badges/instagram.svg" alt="Instagram"></picture></a>
+  <a href="https://openvan.io/?src=github&c=org-profile"><picture><source media="(prefers-color-scheme: dark)" srcset="badges/website-inverted.svg"><img src="badges/website.svg" alt="Website"></picture></a>
 </p>
 
 ---
@@ -53,7 +53,7 @@ The waitlist is the one channel for everything that matters:
 - A shot at a beta-test spot
 - Early-bird price at launch
 
-**→ [Join the waitlist](https://openvan.io/start)**
+**→ [Join the waitlist](https://openvan.io/start?src=github&c=org-profile)**
 
-Follow the build on [YouTube](https://www.youtube.com/@openvan-io) and [Instagram](https://www.instagram.com/openvan.io).  
+Follow the build on [YouTube](https://openvan.io/go/youtube?src=github&c=org-profile) and [Instagram](https://openvan.io/go/instagram?src=github&c=org-profile).  
 Questions: [hello@openvan.io](mailto:hello@openvan.io)
